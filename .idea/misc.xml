@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/badge_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/tab_call_selector.xml" value="0.1585" />
         <entry key="app/src/main/res/layout-v26/activity_message.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_message.xml" value="0.39588377723970947" />
@@ -16,6 +17,9 @@
         <entry key="app/src/main/res/layout/fragment_message.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_status.xml" value="0.1703125" />
         <entry key="app/src/main/res/layout/list_chats.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/app_bar_menu.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/chat_toolbar_menu.xml" value="0.14895833333333333" />
+        <entry key="app/src/main/res/menu/menu_calls_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/menu/menu_home.xml" value="0.1" />
       </map>
     </option>

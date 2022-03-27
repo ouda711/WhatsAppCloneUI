@@ -7,6 +7,7 @@
     android:background="@color/colorPrimary"
     android:gravity="center_vertical"
     app:layout_collapseMode="pin"
+    app:popupTheme="@style/MyToolbarStyle"
     app:layout_scrollFlags="scroll|enterAlways"
     app:theme="@style/MyToolbarTheme"
     app:title="@string/app_name"/>

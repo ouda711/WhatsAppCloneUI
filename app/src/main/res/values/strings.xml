@@ -27,5 +27,19 @@
     <string name="online">Online</string>
     <string name="type_a_message">Type a message</string>
     <string name="message">Message</string>
+    <string name="more">More</string>
+    <string name="video">Video</string>
+    <string name="voice_call">Voice call</string>
+    <string name="actions">Actions</string>
+    <string name="view_contact">View Contact</string>
+    <string name="media_links_and_docs">Media, links and docs</string>
+    <string name="search">Search</string>
+    <string name="mute_notifications">Mute notifications</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="new_group">New Group</string>
+    <string name="new_broadcast">New Broadcast</string>
+    <string name="linked_devices">Linked Devices</string>
+    <string name="starred_messages">Starred messages</string>
+    <string name="settings">Settings</string>
 
 </resources>
