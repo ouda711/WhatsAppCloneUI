@@ -24,5 +24,8 @@
     <string name="avatar">Avatar</string>
     <string name="ouda_wycliffe">Ouda Wycliffe</string>
     <string name="last_message_from_them">Last message from them</string>
+    <string name="online">Online</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="message">Message</string>
 
 </resources>

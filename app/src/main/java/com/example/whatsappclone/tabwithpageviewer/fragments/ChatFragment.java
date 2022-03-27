@@ -1,9 +1,11 @@
 package com.example.whatsappclone.tabwithpageviewer.fragments;
 
 import android.app.LauncherActivity;
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentTransaction;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,6 +16,7 @@ import android.widget.Toast;
 
 import com.example.whatsappclone.ChatList;
 import com.example.whatsappclone.CustomChatListAdapter;
+import com.example.whatsappclone.MessageActivity;
 import com.example.whatsappclone.R;
 
 import java.util.ArrayList;
@@ -80,6 +83,8 @@ public class ChatFragment extends Fragment {
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 ChatList chatList1 = (ChatList) lv.getItemAtPosition(i);
                 Toast.makeText(getContext(), "Selected :", Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(getActivity(), MessageActivity.class);
+                startActivity(intent);
             }
         });
         return view;
